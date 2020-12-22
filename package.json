@@ -3,9 +3,6 @@
   "homepage": "https://moviecards.kylejvh.com",
   "version": "0.1.0",
   "private": true,
-  "engines": {
-    "node": ">=12.6.0"
-  },
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.25",
     "@fortawesome/free-solid-svg-icons": "^5.11.2",
